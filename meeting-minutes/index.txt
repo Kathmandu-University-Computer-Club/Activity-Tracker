@@ -1,0 +1,5 @@
+###README###
+Author: Sanjog Sigdel
+Description: Inside this folder we will document all of our meeting summaries which we call it as minute.
+We've lots of things to discuss with the team about how will we organize our github projects and repositories.
+But for now I've created thsi file to test new commit and also test if it fires an email service to kucc@googlegroups.com
